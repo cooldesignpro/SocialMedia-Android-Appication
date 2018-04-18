@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/lib/mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/mail_e3195804e3f1ca48ca7654cadb56a876a4c01a93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/81c4abb1a66e964d571b233e49fce7c5c6dc7ada/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_e42ff7686a18321a308a64b4f36f44a594a2a91b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/45ef17b7e54e8d7c0e113975147f3990ce42eb21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_9a2dc80ac40e1c111fea3b2ddfb6e6897f15e4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/gson-2.8.0_be9904831e4df1a9e043d40eef315507c46cd3d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/de936ccfe49667e833dfeac49eb25993ea387a3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_ff92e6a62d78cc59136ecccd9d56d922059f565a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/lib/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_e3195804e3f1ca48ca7654cadb56a876a4c01a93/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/108e3daf9db56bf27687148a2f07648e3e9355d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_1aed0e2f6383507694fd9d4f02c0f14437434852.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/4f5ad85604e2abfa30cf50cb8f303f6cd385f87b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_7af910c4aa3cd9df06e9b4035a263c352d0394e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_e1d97ad072cffe53e2f485eeea5ad3161bea51a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/1bac4f767d93e39374b83ae97907bbf91e370d5c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_9b3b33f84aa5284333122a0ba1707fd96d9a98d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/e02d8ed28dd2b7a3fe75782d015134a798594f29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_1c2fce6b45e1c2f212337c7168a8234971bc50cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/36b99566e113bfc5a5a11f98fe07d0ec50329c49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_5db5e2e09a2f6f2b6cbd5fc2e9db73bb827ca8b9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_91b08375d9fe4c8014a62eb5ef79fbab3c267d7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/659ae3c0377d929131e9de6a475ef88aa561624d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_763351981915fba1f615c94437c97502acfa78d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/5eaaa5f65747f6f1727dcf8d7c86b499e9163c06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_640b556a96a20c7e961b4f5ba02a44f8d77d56e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/b5b9644a639ee9007bafb473ffd3e13196b19f0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_7c9d6e2566374586694a64d68d9554681c22e5e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/0aef45e1b5be98e6cbc300bfba5331aa99572e21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_5f752858a8b4b328e42a8d29f5f6c9d147145aa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/868b082184b298caaac072d068f68b687778d95f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_5c4837c506bed993f42f1c5bb308b80ff871b0be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_287af82c444dc62b720f8e9fd15987c207048831.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/lib/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_352c3325a2948747b9b42d9b15acddf34913b207/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/0470507d44f19d1f4cd11754f24b9467c210ac9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_4f919a919393fced260b4bb3d2b06a18f0e0ccec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_23b74611a6231e16ea7b4c35b82beb0fdc1b9bc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/lib/additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/additionnal_352c3325a2948747b9b42d9b15acddf34913b207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/5af58ccf2c03cfce1b5fc17a7d84f1098f6b80d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_0c5d0075cd42d088674ffad438f708cca4d530ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/10eb7b9e3a0341a828824352d4141083e55a1f37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_fa3906447b8a2dc61eb34b39c48467eb50a25aa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/b02ec7a81d72819e54111c71bafb38fe0eb7fd60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_2b0376a24f63e36840b993de4995bfaecc7df641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/848b0febaa8be1fd9eec85111936b5a74df1c87e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_3d7205154b4278799f22acd6d641e07ee310b5e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/c1ca66c1cf702ca0dc30404eb351b7f3a2a3a3d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_4be80373b1a5b261e04c9b7e4debf53b0dad8d28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/lib/activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/activation_854f865814b590ffcf421068ceb50c649630bbe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/4ea09bf1c394e2a46e071d3a5ab562ae3568c3f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_90b37a2c21c73a176ef05e37f568311a08ca0d75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/548566acc2ade6564c9bf6c419589f18fee36cfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_68c3a00004933fdff530c42d84ddf08b23576069.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/lib/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_854f865814b590ffcf421068ceb50c649630bbe6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/5fffec1b522c056a9de950e9a47beb8f52a63525/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_8f6a9c040eb49b9ffcc70d9f164de7e423866a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/b62a89b8faa3b8f8ce146338696e45e4331be5ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_c8913d1a1c4f36028e990bb9fd6ec59a66def5f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/6747e4599c36d22c232cfcbc72051ae17577b385/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_25e9e01979315b6d3b75540d8a2dba7a9eb9f6df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/90fba82fa85ffd5f3e40845e8f16dcb03899ff0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_f68e2b2eb20fd5fb38a19b3ff99ce6c40522a33d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/df4cc76fa2565a0e1aca9d96a8146a4a29f914f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_f4687c314245fbb272ab73af537b04ddd4b36c79.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e267649ce8d78cb289782500ebe2c60acc362e87">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eb4db194d8fc7f4d0b73cae2992339a1708cedd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/117bfd7f8a399f4354710b8164be26960c4c0bf3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_74ef9800ba0a2e38170ccf49cdef839fcbbfe20e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.android/build-cache/7fb6d67d7404cb42e0a21949f0d4cd7e643cb64d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/renuka/AndroidStudioProjects/Social-Awesome-master/app/build/intermediates/pre-dexed/debug/classes_f9823c142005ab07f07d3fcebd01668760973969.jar" />
+    </item>
+
+</items>
